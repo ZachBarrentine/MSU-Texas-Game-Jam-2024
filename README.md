@@ -10,10 +10,13 @@
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  1  | Scripts         | Python files         |
-|  2  | Assets         | Image files         |
+|  1  | [Scripts](https://github.com/ZachBarrentine/MSU-Texas-Game-Jam-2024/tree/main/Scripts)         | Python Files         |
+|  2  | [Assets](https://github.com/ZachBarrentine/MSU-Texas-Game-Jam-2024/tree/main/Assets)         | Image Files         |
+|  3  | [GameJam24.py](https://github.com/ZachBarrentine/MSU-Texas-Game-Jam-2024/blob/main/GameJam24.py)         | Main Game File         |
+|  4  | [editor.py](https://github.com/ZachBarrentine/MSU-Texas-Game-Jam-2024/blob/main/editor.py)         | Editor File         |
 
 
 # Instructions:
 - Make sure the Pygame library is downloaded before running the program.
-- Make sure every file is installed beforehand
+- Make sure every file is downloaded and present beforehand
+- GameJam24.py is the file that the game will be run from
